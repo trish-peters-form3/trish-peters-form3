@@ -24,10 +24,10 @@ Enjoy end-to-end ownership from concept to deployment, including building and op
 Develop your skills, work on cool projects and the latest tech, all whilst working with a talented, diverse and friendly group of people.
 
 - [Our engineering blog ✍️](https://www.form3.tech/engineering/content)
-- [Life at Form3 pages](https://www.form3.tech/engineering/life-at-form3)
-- [Our podcast](https://techpodcast.form3.tech/)
-- [Our careers site](https://www.form3.tech/careers)
-- [Our candidate pack](https://github.com/form3tech-oss/candidate-pack)
+- [Life at Form3 pages ❤️](https://www.form3.tech/engineering/life-at-form3)
+- [Our podcast 🎧](https://techpodcast.form3.tech/)
+- [Our careers site ⏩](https://www.form3.tech/careers)
+- [Our candidate pack ❔](https://github.com/form3tech-oss/candidate-pack)
 
 <p align="center">
  <img src="https://github.com/adelina-simion-form3/adelina-simion-form3/blob/main/StackGophers.png?raw=true" width="50%"/>
